@@ -1,7 +1,7 @@
 # ImageGenerate
 This is a stochastic hill climbing algorithm to randomly alter a set of polygons in order to try and make them look like a target image
 
-This program requires cairo is order to build
+This program requires libcairo2-dev in order to build
 
 Multimona.c is the same as Mona.c however it has been edited in order to take take advantage of multithreading.
 
